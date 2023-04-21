@@ -47,6 +47,7 @@ var Directives = []string{
 	"hosts",
 	"route53",
 	"azure",
+	"gcp_instances",
 	"clouddns",
 	"k8s_external",
 	"kubernetes",
